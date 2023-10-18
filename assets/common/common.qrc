@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fontawesome-webfont.ttf</file>
+        <file>banner_center.png</file>
+        <file>banner.png</file>
+        <file>coat_of_arms.png</file>
+        <file>title_logo.png</file>
+        <file>title_end_cap.png</file>
+        <file>title_bg.png</file>
+        <file>title_front_cap.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>

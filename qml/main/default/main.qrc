@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UniversalGamepad.qml</file>
+    </qresource>
+</RCC>

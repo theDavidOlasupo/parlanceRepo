@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>util/Storage.qml</file>
+        <file>model/RestAPI.qml</file>
+        <file>model/DataModel.qml</file>
+        <file>logic/Logic.qml</file>
+        <file>pages/StreamsPage.qml</file>
+        <file>controls/MovieRow.qml</file>
+        <file>util/IconType.qml</file>
+        <file>util/Icon.qml</file>
+        <file>controls/CoatOfArms.qml</file>
+        <file>controls/TitleBanner.qml</file>
+        <file>parlance_fr.qm</file>
+        <file>parlance_fr.ts</file>
+        <file>controls/PlayerContainer.qml</file>
+        <file>pages/VideoPlayerPage.qml</file>
+        <file>parlance_en.qm</file>
+        <file>parlance_en.ts</file>
+        <file>Root.qml</file>
+    </qresource>
+</RCC>
